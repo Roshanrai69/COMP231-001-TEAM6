@@ -1,0 +1,10 @@
+profiles
+- Profiles
+- Relationships
+
+posts
+-Posts
+-Like
+-Comment
+
+allauth authentication
